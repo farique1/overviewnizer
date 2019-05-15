@@ -1,5 +1,6 @@
-﻿# Overviewnizer
+# Overviewnizer
 
+![#Owzr](https://github.com/farique1/overviewnizer/blob/master/Images/Owzr.png)  
 
 ## What it is.
 
@@ -9,6 +10,8 @@
 ## How to use.
 
 >**Overviewnizer** need to be on the same folder as its `Data` subfolder.  
+
+![#gui](https://github.com/farique1/overviewnizer/blob/master/Images/gui.png)  
 
 From top to bottom on the main interface:  
 
@@ -43,7 +46,7 @@ Converts all the files on the file list to the new overview format. Caution, thi
 Converts all the files on the file list back from the overview format. Caution, this will erase the original files and replace them with `.txt` files.  
 
 - Old Overview button  
-Converts all the files on the file list to the old overview format. Caution, this will erase the original files and replace them with overview `.txt` versions.  
+Converts all the files on the file list to the old overview format. Caution, this will erase the original files and replace them with overview `.cfg` versions.  
 
 - Add "\n" check box:  
 On some layouts (mines), **Attract Mode** do not show the first line of the overview if it is longer than the box it is in, by adding an “\n” (a line feed) at the very start of the text (right after “overview “) this can be fixed.  
