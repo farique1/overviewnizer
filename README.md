@@ -30,25 +30,25 @@ The number of files found.
 - *Files list:*  
 The files to be converted.  
 
-- *View File button:*
+- *View File button:*  
 When a file is selected on the file list it can be opened on the File View window.  
 More on that later  
 
-- *Help button*  
+- *Help button:*  
 Show this  
 
 Convert to  
 
-- *New Overview button*  
+- *New Overview button:*  
 Converts all the files on the file list to the new overview format. Caution, this will erase the original files and replace them with overview `.txt` versions.  
 
-- *Text button*  
+- *Text button:*  
 Converts all the files on the file list back from the overview format. Caution, this will erase the original files and replace them with `.txt` files.  
 
-- Old Overview button  
+- *Old Overview button:*  
 Converts all the files on the file list to the old overview format. Caution, this will erase the original files and replace them with overview `.cfg` versions.  
 
-- Add "\n" check box:  
+- *Add "\n" check box:*  
 On some layouts (mines), **Attract Mode** do not show the first line of the overview if it is longer than the box it is in, by adding an “\n” (a line feed) at the very start of the text (right after “overview “) this can be fixed.  
 
 
@@ -65,16 +65,16 @@ Show the content of the file.
 
 Convert to
 
-- *New Overview button*  
+- *New Overview button:*  
 Converts the opened file to the new overview format. (do not alter the saved file)  
 
-- *Old Overview button*  
+- *Old Overview button:*  
 Converts the opened file to the old overview format. (do not alter the saved file)  
 
-- *Text button*  
+- *Text button:*  
 Converts the opened file back from the overview format. (do not alter the saved file)  
 
-- *Save As button*  
+- *Save As button:*  
 Saves the file in the current state. It will not overwrite the original file.  
 
 ## Acknowledgements  
