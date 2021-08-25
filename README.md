@@ -1,6 +1,6 @@
-# Overviewnizer
+<img src="https://github.com/farique1/overviewnizer/blob/master/Images/GitHub_AMOW_Logo-02.png" alt="Attract Mode Overviewnizer" width="290" height="130">  
 
-![#Owzr](https://github.com/farique1/overviewnizer/blob/master/Images/Owzr.png)  
+# Attract Mode Overviewnizer
 
 ## What it is.
 
